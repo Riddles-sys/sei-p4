@@ -1,0 +1,41 @@
+.creature-index {
+  background-size: cover;
+  h5 {
+    font-size: 80px;
+    padding: 25px;
+  }
+  img {
+    height: 45vh;
+      
+  }
+  .creatures-card {
+    text-align: center;
+
+  }
+  &:hover .overlay {
+    max-height: 30%;
+    
+
+  }
+  .overlay {
+    position: absolute;
+    z-index: 1;
+    bottom: 0;
+    left: 0;
+    right: 0;
+    background-color: #0f0f0fcd;
+    overflow: hidden;
+    width: 100%;
+    max-height: 0;
+    transition: .5s ease;
+    
+    border-radius: 0px 0px 10px 10px;
+  }
+  h5 {
+    text-decoration: none;
+    color: white;
+    font-weight: 300;
+    font-size: 0.9rem;
+    margin: 5px;
+  }
+}

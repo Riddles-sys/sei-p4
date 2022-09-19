@@ -1,0 +1,43 @@
+.profile-link{
+  margin-top: 10px;
+  width: 90%;
+  display: flex;
+  align-items: center;
+  justify-content: space-between;
+  gap: 20px;
+  text-align: center;
+  
+}
+
+a {
+  transition: .5 ease;
+  .github {
+    transform: scale(1);
+    transition: .5 ease;
+    max-width: 80px;
+    max-height: 30px;
+    border-radius: 15px 15px 0px 0px;
+    &:hover {
+      transform: scale(1.1);
+    }
+  }
+}
+
+.about-container{
+  max-width: 800px;
+  padding-left: 10px;
+  padding-right: 10px;
+}
+
+.card {
+  filter: drop-shadow(4px 4px 15px rgba(0, 0, 0, 0.2));
+  background-color: rgba(255, 255, 255, 0.946);
+  border-radius: 8px;
+
+}
+
+.about-row {
+  display: flex;
+  flex-direction: row;
+  justify-content: center;
+}

@@ -1,0 +1,296 @@
+[
+{
+  "model": "locations.location",
+  "pk": 1,
+  "fields": {
+    "name": "The Shire",
+    "history": "By the late Third Age it was one of the few heavily-populated areas left in Eriador. Its name in Westron was Sûza, \"Shire,\" or Sûzat, \"The Shire.\" Contrary to popular misconception, the Shire was not the birthplace of Frodo Baggins, as he was born in Buckland, which at the time was not formally part of the Shire despite being colonized by Shire hobbits.  At the end of the Third Age, Saruman (known then as Sharkey) tried to take control of it for a very short period, but was killed in the Battle of Bywater, which ended the War of the Ring.",
+    "trivia": "The Shire was a realm in northwestern Middle-earth, and was inhabited by the hobbits. It was located in the region of Eriador.",
+    "location_image_1": "https://media.cntraveller.com/photos/611be79fd5b6f5a4a3deec79/4:3/w_1704,h_1278,c_limit/hobbiton.jpg",
+    "location_image_2": "https://img.etimg.com/photo/msid-58768239,quality-100/.jpg",
+    "location_image_3": "https://wallpaperset.com/w/full/a/b/5/158188.jpg",
+    "youtube_id": "510o9PRy_0o",
+    "risk": "Low Risk",
+    "likes": [],
+    "dislikes": [],
+    "favourites": [],
+    "creatures": [],
+    "inhabitants": [
+      1
+    ]
+  }
+},
+{
+  "model": "locations.location",
+  "pk": 2,
+  "fields": {
+    "name": "Bree",
+    "history": "The village was bordered on the north side by Bree-hill, from which stretched a dike and hedge in a great semicircle protecting the town. This barrier had three gates, through which the Great East Road passed.",
+    "trivia": "Bree was a village of Men and hobbits, located east of the Shire and south of Fornost in Eriador.",
+    "location_image_1": "https://visionofthepalantir.files.wordpress.com/2018/02/bree.jpg",
+    "location_image_2": "https://static.wikia.nocookie.net/middlearthfilmseries/images/f/fd/BreeLOTR.jpg",
+    "location_image_3": "https://i.pinimg.com/736x/92/1a/5a/921a5a86c5be5e7a0f778f1bc2b9bf70--lord-of-the-rings-the-lord.jpg",
+    "youtube_id": "xsSXGWHYS14",
+    "risk": "Medium Risk",
+    "likes": [],
+    "dislikes": [],
+    "favourites": [],
+    "creatures": [],
+    "inhabitants": [
+      2
+    ]
+  }
+},
+{
+  "model": "locations.location",
+  "pk": 3,
+  "fields": {
+    "name": "Mount Gundabad",
+    "history": "Mount Gundabad was an Orc mountain-stronghold situated at the northern end of the Misty Mountains, located to the east of the ancient realm of Angmar.",
+    "trivia": "From the northern part of the Vales of Anduin, Mount Gundabad appeared to be the northern endpoint of the Misty Mountains and the western endpoint of the Grey Mountains, although slightly separated.",
+    "location_image_1": "http://2.bp.blogspot.com/-iGxwbiQiv0M/VLNHTMa3UwI/AAAAAAAADZ8/t4p3gL11y0g/s1600/Gundabad%2B-%2BBattle%2Bof%2Bthe%2BFive%2BArmies.png",
+    "location_image_2": "https://visionofthepalantir.files.wordpress.com/2020/05/img_4426.jpg",
+    "location_image_3": "https://media.moddb.com/images/downloads/1/93/92408/sshot0002.jpg",
+    "youtube_id": "5vqLVqmmRA8",
+    "risk": "High Risk",
+    "likes": [],
+    "dislikes": [],
+    "favourites": [],
+    "creatures": [
+      2
+    ],
+    "inhabitants": []
+  }
+},
+{
+  "model": "locations.location",
+  "pk": 4,
+  "fields": {
+    "name": "Rivendell",
+    "history": "Rivendell, also known as Imladris in Sindarin, was an Elven town and the house of Elrond located in Middle-earth. It is described as \"The Last Homely House East of the Sea\" in reference to Valinor, which was west of the Great Sea in Aman.",
+    "trivia": "The peaceful, sheltered town of Rivendell was located at the edge of a narrow gorge of the river Bruinen, but well hidden in the moorlands and foothills of the Misty Mountains.",
+    "location_image_1": "https://cache.mrporter.com/content/images/cms/ycm/resource/blob/17560452/0ea79af744de1f5a31dfeed71fba2b1a/5-4-jpg-data.jpg/w700_q80.jpg",
+    "location_image_2": "https://c4.wallpaperflare.com/wallpaper/335/429/69/rivendell-the-lord-of-the-rings-fantasy-art-waterfall-artwork-hd-wallpaper-preview.jpg",
+    "location_image_3": "https://wallpapers.com/images/hd/lotr-lord-of-the-rings-rivendell-4tcptx41sd7m5id6.jpg",
+    "youtube_id": "BOAS5SGcYF4",
+    "risk": "Low Risk",
+    "likes": [],
+    "dislikes": [],
+    "favourites": [],
+    "creatures": [],
+    "inhabitants": [
+      3
+    ]
+  }
+},
+{
+  "model": "locations.location",
+  "pk": 5,
+  "fields": {
+    "name": "Mirkwood",
+    "history": "Mirkwood was a dense and heavy woodland that made up much of the eastern portion of Rhovanion or Wilderland, that maintained its borders and relative shape for many ages.",
+    "trivia": "Mirkwood, that received its ominous name in the Third Age, was the greatest forest of Middle-earth, located in the eastern region of Rhovanion between the Grey Mountains and Calenardhon.",
+    "location_image_1": "https://wallpapercave.com/wp/wp7077172.jpg",
+    "location_image_2": "https://wallpapercave.com/wp/wp7077144.jpg",
+    "location_image_3": "https://wallpaperaccess.com/full/1977084.jpg",
+    "youtube_id": "NtIWkAJTUIQ",
+    "risk": "High Risk",
+    "likes": [],
+    "dislikes": [],
+    "favourites": [],
+    "creatures": [
+      3
+    ],
+    "inhabitants": [
+      4
+    ]
+  }
+},
+{
+  "model": "locations.location",
+  "pk": 6,
+  "fields": {
+    "name": "Erebor",
+    "history": "Known in Sindarin as Erebor, aka The Lonely Mountain, referred to both a mountain in northern Rhovanion and the subterranean Dwarven city contained within it. In the latter half of the Third Age, it became the greatest Dwarf city in Middle-earth.",
+    "trivia": "Thrór returned to Erebor to take up the title King under the Mountain. Under Thrór's reign, Erebor became a great stronghold where the dwarves became numerous and prosperous.",
+    "location_image_1": "https://www.thetolkienforum.com/wiki-asset/x,qpid=574.pagespeed.ic.HGgZ8Tft0z.jpg",
+    "location_image_2": "https://cdna.artstation.com/p/assets/images/images/000/125/672/large/daniel-romanovsky-the-lonely-mountain.jpg",
+    "location_image_3": "https://c4.wallpaperflare.com/wallpaper/816/600/973/the-lord-of-the-rings-lonely-mountain-erebor-wallpaper-thumb.jpg",
+    "youtube_id": "gPCjIhCt2ns",
+    "risk": "Medium Risk",
+    "likes": [],
+    "dislikes": [],
+    "favourites": [],
+    "creatures": [],
+    "inhabitants": []
+  }
+},
+{
+  "model": "locations.location",
+  "pk": 7,
+  "fields": {
+    "name": "Lake Town",
+    "history": "small settlement of Men in the northwestern part of the Long Lake in Rhovanion. The town was constructed entirely of wood and stands upon wooden pillars sunk into the bed of the Long Lake, south of the Lonely Mountain and east of Mirkwood.",
+    "trivia": "The final resting place of the dragon Smaug, whose bones ended up at the bottom of the lake, and by whom it was destroyed, then subsequently rebuilt.",
+    "location_image_1": "https://static.wikia.nocookie.net/lotr/images/a/ac/LakeTown.jpg",
+    "location_image_2": "https://www.theonering.net/torwp/wp-content/uploads/2013/12/Laketown.png",
+    "location_image_3": "https://images.squarespace-cdn.com/content/v1/5bd830b9ebfc7f8841dba818/1540896130345-013JYEL8QDIVPAHJHFOM/laketown+wharf.jpg",
+    "youtube_id": "hWwiw45Ycx0",
+    "risk": "Medium Risk",
+    "likes": [],
+    "dislikes": [],
+    "favourites": [],
+    "creatures": [],
+    "inhabitants": []
+  }
+},
+{
+  "model": "locations.location",
+  "pk": 8,
+  "fields": {
+    "name": "Moria a.k.a. Khazad-dûm",
+    "history": "Was an underground kingdom beneath the Misty Mountains. It was known for being the ancient realm of the Dwarves of Durin's Folk, and the most famed of all Dwarven realms.",
+    "trivia": "The element mor had the sense \"sinister, evil\", especially by association with infamous names such as Morgoth and Mordor; indeed Moria itself had an evil reputation by the times.",
+    "location_image_1": "https://wallpaperaccess.com/full/1882222.jpg",
+    "location_image_2": "https://images3.alphacoders.com/124/1246445.png",
+    "location_image_3": "https://i.stack.imgur.com/eoFKI.png",
+    "youtube_id": "faH5CypTltk",
+    "risk": "High Risk",
+    "likes": [],
+    "dislikes": [],
+    "favourites": [],
+    "creatures": [],
+    "inhabitants": [
+      1
+    ]
+  }
+},
+{
+  "model": "locations.location",
+  "pk": 9,
+  "fields": {
+    "name": "Isengard",
+    "history": "Isengard, also known as Angrenost ('Iron Fortress') in Sindarin, was one of the three major fortresses of Gondor, and held within it one of the realm's palantíri.",
+    "trivia": "Isengard was built in the Second Age around the tower of Orthanc by the Númenóreans in exile, in the days of their power, in Nan Curunir (The Wizard's Vale) in the Misty Mountains.",
+    "location_image_1": "https://miro.medium.com/max/600/1*1kCNdOayi5rTBVoYhb_7AA.jpeg",
+    "location_image_2": "https://static.wikia.nocookie.net/lotr/images/0/03/Isengard_before.jpeg",
+    "location_image_3": "https://static.wikia.nocookie.net/lotr/images/7/77/Isengard_army.jpg",
+    "youtube_id": "eLR-13Kuu2k",
+    "risk": "High Risk",
+    "likes": [],
+    "dislikes": [],
+    "favourites": [],
+    "creatures": [],
+    "inhabitants": []
+  }
+},
+{
+  "model": "locations.location",
+  "pk": 10,
+  "fields": {
+    "name": "Dol Guldur",
+    "history": "Also known as the Hill of Dark Sorcery.",
+    "trivia": "Was Sauron's stronghold and base of operations while secretly regaining his power as \"The Necromancer\". It was located in the south of Mirkwood and was occupied for most of two thousand years.",
+    "location_image_1": "https://img3.goodfon.com/wallpaper/nbig/d/9e/dol-guldur-khobbit-krepost-saurona.jpg",
+    "location_image_2": "https://static.planetminecraft.com/files/resource_media/screenshot/1534/sky9292393.jpg",
+    "location_image_3": "https://cdnb.artstation.com/p/assets/images/images/009/779/937/4k/daniel-bayona-illya20.jpg?1520870309&dl=1",
+    "youtube_id": "9Iz0dyRWhKw",
+    "risk": "High Risk",
+    "likes": [],
+    "dislikes": [],
+    "favourites": [],
+    "creatures": [
+      2,
+      4,
+      5
+    ],
+    "inhabitants": []
+  }
+},
+{
+  "model": "locations.location",
+  "pk": 11,
+  "fields": {
+    "name": "Helms Deep",
+    "history": "The gorge narrowed from the north, with the cliffs on each side heightening until its southernmost point, where the fortress of the Hornburg and the source of the Deeping-stream lay. The Hornburg was built upon a great spur of rock which extended from the gorge's northern cliff, and from the fortress to the southern cliff was built the Deeping Wall. The earthen wall known as Helm's Dike spanned the width of the gorge, acting as a first defense of the fortress.",
+    "trivia": "Helm's Deep, named for Helm Hammerhand, was a fortified gorge in the White Mountains located below the Thrihyrne.",
+    "location_image_1": "https://tolkiengateway.net/w/images/a/a9/J.R.R._Tolkien_-_Helm%27s_Deep_and_the_Hornburg.jpg",
+    "location_image_2": "https://i.pinimg.com/originals/4e/9a/ac/4e9aac9a358e2877be5e86f6c6624d52.jpg",
+    "location_image_3": "https://images.squarespace-cdn.com/content/v1/57fd5882e6f2e1489b27ecb7/1598278427535-OLQ9L1F5MII8GJL5CUR0/Helms+Deep+Eucatastrophe.jpg",
+    "youtube_id": "XSB-Bp_DIiI",
+    "risk": "Medium Risk",
+    "likes": [],
+    "dislikes": [],
+    "favourites": [],
+    "creatures": [],
+    "inhabitants": []
+  }
+},
+{
+  "model": "locations.location",
+  "pk": 12,
+  "fields": {
+    "name": "Minas Tirith",
+    "history": "The fortress of the Tower of the Sun was built to guard against the Men of the White Mountains in the year SA 3320 by the Dúnedain of Gondor, those Faithful Númenóreans who escaped the destruction of Númenor the year prior. It was at that time named Minas Anor, meaning \"Tower of the Sun\". It served as the home of Anárion, as Minas Ithil, built to guard against Mordor, became the dwelling-place of Isildur. The South-kingdom, however, was jointly ruled from Osgiliath by both brothers under the overlordship of Elendil.",
+    "trivia": "Minas Tirith, the Tower of Guard, formerly and eventually again known as Minas Anor, was the capital city of Gondor from TA 1640 onward.",
+    "location_image_1": "https://wallpapercave.com/wp/wp3218478.jpg",
+    "location_image_2": "https://images5.alphacoders.com/102/1028862.jpg",
+    "location_image_3": "https://c4.wallpaperflare.com/wallpaper/740/86/407/movies-minas-tirith-rpg-colored-the-lord-of-the-rings-fantasy-art-maps-adventure-9358x6422-wallpa-abstract-fantasy-hd-art-wallpaper-thumb.jpg",
+    "youtube_id": "OgZYAVBEbWw",
+    "risk": "Medium Risk",
+    "likes": [],
+    "dislikes": [],
+    "favourites": [],
+    "creatures": [],
+    "inhabitants": []
+  }
+},
+{
+  "model": "locations.location",
+  "pk": 13,
+  "fields": {
+    "name": "Mount Doom",
+    "history": "The Mount Doom was created by the first dark lord Melkor during the First Age.[1] During the Second Age, Sauron chose the land of Mordor as his dwelling-place. He used the fire that welled there from the heart of the earth in his sorceries and his forging. Around SA 1600, Sauron forged the One Ring in the depths of the Cracks of Doom, which was built within Mount Doom itself. In SA 3429, Mount Doom erupted, signaling Sauron's attack on Gondor, where it earned its name \"Amon Amarth.\"",
+    "trivia": "Mount Doom, also known as Orodruin and Amon Amarth, was a volcano in Mordor where the One Ring was forged, and the only place it could be destroyed.",
+    "location_image_1": "https://static.wikia.nocookie.net/middleearthshadowofmordor7723/images/a/a3/Mt_doon_08.jpg",
+    "location_image_2": "https://oyster.ignimgs.com/mediawiki/apis.ign.com/middle-earth-shadow-of-mordor/8/8e/Mount_Doom.jpg",
+    "location_image_3": "https://c4.wallpaperflare.com/wallpaper/270/251/830/the-lord-of-the-rings-mordor-nazgul-sauron-wallpaper-thumb.jpg",
+    "youtube_id": "C5im3ikI8p8",
+    "risk": "High Risk",
+    "likes": [],
+    "dislikes": [],
+    "favourites": [],
+    "creatures": [
+      4,
+      1,
+      3,
+      5
+    ],
+    "inhabitants": []
+  }
+},
+{
+  "model": "locations.location",
+  "pk": 14,
+  "fields": {
+    "name": "Minas Morgul",
+    "history": "Minas Morgul was once a fortress of Gondor, called Minas Ithil, the Tower of the Moon. As the easternmost fortification in the Kingdom of Gondor, Minas Ithil safeguarded the eastern borders of the realm and protected the capital Osgiliath from the forces of Mordor during the early part of the Third Age. As Gondor's power weakened, it was then taken by the forces of Mordor, and used as a base to attack Gondor and in the process, decayed into the dark fortress and was renamed as a result.",
+    "trivia": "Minas Morgul was located in the upland valley known as the Morgul Vale at the feet of the Mountains of Shadow.",
+    "location_image_1": "https://static.wikia.nocookie.net/lotr/images/0/02/MinasMorgul.jpg",
+    "location_image_2": "https://wallpapercave.com/wp/wp7389469.jpg",
+    "location_image_3": "https://cdna.artstation.com/p/assets/images/images/008/152/384/large/karakter-design-studio-mnl-krk-key-minasmorgul-detail.jpg",
+    "youtube_id": "sP1zQWvRVk8",
+    "risk": "High Risk",
+    "likes": [],
+    "dislikes": [],
+    "favourites": [],
+    "creatures": [
+      2,
+      5
+    ],
+    "inhabitants": [
+      5
+    ]
+  }
+}
+]

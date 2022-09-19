@@ -1,0 +1,66 @@
+// @tailwind base;
+@tailwind components;
+@tailwind utilities;
+
+@import './LocationSingle.scss';
+@import './Login.scss';
+@import './Landing.scss';
+@import './Register.scss';
+@import './Footer.scss';
+@import './AboutMe.scss';
+@import './NotFound.scss';
+@import './LocationIndex.scss';
+@import './PavNavBar.scss';
+@import './Maps.scss';
+@import './UserProfile.scss';
+@import './Creatures.scss';
+@import './Inhabitants.scss';
+
+* {
+  box-sizing: 0;
+  // background-color:#c9851312;
+  text-decoration: none;
+  list-style: none;
+  font-family: 'Roboto', sans-serif;
+  a { color: inherit; }; 
+ 
+}
+
+.root {
+  background-color: #d0ab734d;
+
+}
+
+.logo-image {
+  
+    width: 35%!important;
+
+}
+
+
+.notFound {
+  display: flex;
+  justify-content: center;
+  align-items: center;
+  margin-top: 1rem;
+  height: 100vh;
+}
+
+.profile-page {
+  height: 100vh;
+}
+
+.maps-page {
+  height: 100vh;
+}
+
+.caro-inhab {
+  height: 40rem;
+  width: auto;
+ 
+}
+
+.thumbs {
+  height: 3rem;
+  width: auto;
+}

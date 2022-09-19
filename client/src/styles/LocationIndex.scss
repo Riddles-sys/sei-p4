@@ -1,0 +1,16 @@
+
+.destinations-ul {
+  display: flex;
+  justify-content: space-evenly;
+  flex-direction: row;
+  font-size: small;
+  .location-list {
+    text-decoration: none;
+  }
+
+
+}
+
+.img-map{
+  width: 100%!important;
+}

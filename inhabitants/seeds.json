@@ -1,0 +1,72 @@
+[
+{
+  "model": "inhabitants.inhabitant",
+  "pk": 1,
+  "fields": {
+    "name": "Hobbit",
+    "origin": "Below the Vales of Anduin",
+    "height": "2' - 4'",
+    "languages": "Hobbitish, Westron",
+    "image1": "https://i.pinimg.com/originals/cf/cd/23/cfcd234ecec75bcc18af74d3efe7a57c.jpg",
+    "image2": "https://images.immediate.co.uk/production/volatile/sites/3/2022/08/RPAZS1210423ROTBEN00046R2-039ad3d.jpg",
+    "image3": "https://i.guim.co.uk/img/media/863d2a87325a2cbc523389336def51a166e0ee6b/0_186_4700_2820/master/4700.jpg",
+    "about": "Hobbits, also known as Halflings, were an ancient mortal race that lived in Middle-earth. Although their exact origins are unknown, they were initially found in the northern regions of Middle-earth and below the Vales of Anduin. At the beginning of the Third Age, hobbits moved north and west. Most of their race eventually founded the land of the Shire in the year TA 1601."
+  }
+},
+{
+  "model": "inhabitants.inhabitant",
+  "pk": 2,
+  "fields": {
+    "name": "Humans",
+    "origin": "Men (Atani) were one of several races inhabiting Arda. They are the humans of Middle-earth.",
+    "height": "Human height",
+    "languages": "Westron, Adûnaic, Rohirric, Dalish, Black Speech",
+    "image1": "https://c4.wallpaperflare.com/wallpaper/625/1023/807/actors-aragorn-brunettes-dunadain-wallpaper-preview.jpg",
+    "image2": "https://64.media.tumblr.com/1f9e516c730861117817474ba6ff6212/e389e828d7595b10-29/s500x750/c3931720c2a6d77dd2633e1589c63020ed7c57da.png",
+    "image3": "https://www.giantbomb.com/a/uploads/square_medium/46/462814/3187962-7587999045-latest",
+    "about": "The race of Men were created by the supreme God, Ilúvatar. They awoke in Hildórien at the rising of the Sun, after the awakening of the Elves and Dwarves. They were called the \"Afterborn\" (Quenya Atani, Sindarin: Edain) by the Elves.  Men bear the Gift of Men, which is mortality, and therefore they age and die when their time comes, and are susceptible to illness and disease."
+  }
+},
+{
+  "model": "inhabitants.inhabitant",
+  "pk": 3,
+  "fields": {
+    "name": "Ñoldor",
+    "origin": "The Ñoldor (Quenya: \"Deep Ones\", meaning \"those with knowledge\"), singular Ňoldo.",
+    "height": "Taller than Humans",
+    "languages": "Ñoldorin Quenya, Sindarin",
+    "image1": "https://static1.colliderimages.com/wordpress/wp-content/uploads/2022/03/lotr-elrond.jpg",
+    "image2": "https://i.pinimg.com/originals/f0/70/94/f07094264841d0ee6d5a950e8c09d9b9.gif",
+    "image3": "http://images2.fanpop.com/image/photos/9500000/Elvesof-Rivendell-rivendell-9548315-960-403.jpg",
+    "about": "The Ñoldor were considered the greatest of the Elves in lore and craft. Fëanor was the greatest of their artisans, and their second and briefest-reigning King. When Melkor killed Finwë and stole the Silmarils, Fëanor renamed Melkor Morgoth (\"Black Enemy\"), and persuaded the Ñoldor to pursue Melkor to Middle-earth and wage the War of the Jewels against him."
+  }
+},
+{
+  "model": "inhabitants.inhabitant",
+  "pk": 4,
+  "fields": {
+    "name": "Silvan Elves",
+    "origin": "Nandor who remained in the woodlands of the Vales of Anduin.",
+    "height": "Human height",
+    "languages": "Silvan Elvish, Sindarin, Westron",
+    "image1": "https://static.wikia.nocookie.net/lotrfanon/images/8/88/Thranduil.jpg",
+    "image2": "https://i.pinimg.com/originals/d3/f2/e8/d3f2e889c45a2f0c8623c047feae4a90.jpg",
+    "image3": "https://w0.peakpx.com/wallpaper/547/318/HD-wallpaper-hobbit-elf-legolas-lotr-movie-tauriel.jpg",
+    "about": "The Silvan Elves, or Tawarwaith in Sindarin (also called Wood-elves, Woodland Elves, or East-elves), were a subgroup of the Nandor."
+  }
+},
+{
+  "model": "inhabitants.inhabitant",
+  "pk": 5,
+  "fields": {
+    "name": "Gondorians",
+    "origin": "Descendants of the Númenóreans in Gondor.",
+    "height": "Human height",
+    "languages": "Westron, Sindarin, Quenya",
+    "image1": "https://tolkiengateway.net/w/images/thumb/2/28/Liz_Danforth_-_Gondorian.jpg/250px-Liz_Danforth_-_Gondorian.jpg",
+    "image2": "https://static.wikia.nocookie.net/lotrfanon/images/e/e7/Elessar_Telcontar.png",
+    "image3": "https://fictionhorizon.com/wp-content/uploads/2020/03/09e35968311a4304e3900c9d95544969-700-1.jpg",
+    "about": "The Gondorians were the inhabitants of Gondor. The Dúnedain of Gondor, also known as the Dúnedain of the South, constituted the ruling class and nobility of Gondor being descendants of the Exiles of Númenor who established the South-Kingdom. The history of the Gondorians is extensively dominated by the actions of the Dúnedain of the South."
+  }
+}
+]

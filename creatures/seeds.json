@@ -1,0 +1,72 @@
+[
+{
+  "model": "creatures.creature",
+  "pk": 1,
+  "fields": {
+    "name": "Uruk-hai",
+    "origin": "Bred from Elves and Men",
+    "height": "Shorter than Men, taller than other Orcs",
+    "languages": "Black Speech, Orcish, Westron",
+    "image1": "https://i0.wp.com/cghow.com/wp-content/uploads/2018/10/Uruk-Hai-by-Carlos-Cruz-1.jpg",
+    "image2": "https://tolkiengateway.net/w/images/2/24/The_White_Council_-_Uruk-hai_War_Chief.jpg",
+    "image3": "https://static1.srcdn.com/wordpress/wp-content/uploads/2018/01/Saruman-and-Uruk-hai-1.jpg?q=50&fit=crop&w=1600&dpr=1.5",
+    "about": "Uruk-hai (for short, Uruks) were brutal warriors of Middle-earth, and the strongest breed of Orc."
+  }
+},
+{
+  "model": "creatures.creature",
+  "pk": 2,
+  "fields": {
+    "name": "Gundabad Orcs",
+    "origin": "Mount Gundabad",
+    "height": "Between 5' - 6'+",
+    "languages": "Orkish, Westron",
+    "image1": "https://www.thetolkienforum.com/wiki-asset/?pid=1191&d=1596527655",
+    "image2": "https://i.pinimg.com/474x/a3/41/6d/a3416d8b108a2394050dd8c8c40350cb---challenge-lotr-characters.jpg",
+    "image3": "https://1.bp.blogspot.com/-B3cMZYvr1mk/Uh06AT1OMdI/AAAAAAAASKA/I0xku6WIUpQ/w1200-h630-p-k-no-nu/The-Hobbit-TDOS-08-Azog-orc.jpg",
+    "about": "In Middle Earth, the Gundabad Orcs were the inhabitants of Mount Gundabad situated at the northern end of the Misty Mountains. They invaded the mountain and conquered it from the grasp of Dwarves of Durin who were originally inhabiting there. Before that, the Gundabad Orcs served under the Witch-king of Angmar. After the fall of Angmar, Mount Gundabad became the stronghold of all the Orcs."
+  }
+},
+{
+  "model": "creatures.creature",
+  "pk": 3,
+  "fields": {
+    "name": "Spiders",
+    "origin": "Those who spoke were vicious and malevolent creatures, and their presence considered a blight.",
+    "height": "Unknown",
+    "languages": "Westron, Black Speech",
+    "image1": "https://static.wikia.nocookie.net/non-aliencreatures/images/c/c4/Spider.jpg",
+    "image2": "http://pm1.narvii.com/6623/543d04a8b66559fd515e9cb5584082e762a4e944_00.jpg",
+    "image3": "https://i.pinimg.com/originals/61/9a/85/619a859e5d96f7a540cfd152fc69057a.jpg",
+    "about": "Giant, sapient spiders, also known as the Children of Ungoliant,"
+  }
+},
+{
+  "model": "creatures.creature",
+  "pk": 4,
+  "fields": {
+    "name": "Orcs/Goblins",
+    "origin": "The first documented appearance of Orcs was in Y.T. 1330, when the Sindar observed in Beleriand.",
+    "height": "Shorter than humans",
+    "languages": "Black Speech; numerous Orkish languages; Westron",
+    "image1": "https://static1.srcdn.com/wordpress/wp-content/uploads/2017/05/Lord-of-the-Rings-Orcs-Peter-Jackson.jpg",
+    "image2": "https://pbs.twimg.com/media/EGltjbOXkAEI772.jpg",
+    "image3": "https://i.pinimg.com/originals/f2/d7/18/f2d718d7b1955796eac118c12e4c440c.jpg",
+    "about": "Orcs were a race of humanoid creatures best known for their service as footsoldiers and slaves to the Dark Lords of Middle-earth. Even when not in thrall to an evil master, Orcs rarely if ever had non-violent interactions with Elves, Men, or Dwarves. They were known by many names by the various peoples of Middle-earth."
+  }
+},
+{
+  "model": "creatures.creature",
+  "pk": 5,
+  "fields": {
+    "name": "Nazgûl",
+    "origin": "Mordor",
+    "height": "Human height",
+    "languages": "Black Speech, Westron",
+    "image1": "https://img.wallpapersafari.com/tablet/768/1024/92/36/CihpuF.jpg",
+    "image2": "https://wallpapercave.com/wp/w8t0Kwj.jpg",
+    "image3": "https://wallup.net/wp-content/uploads/2016/01/198801-The_Lord_of_the_Rings-Witchking_of_Angmar-Nazg%C3%BBl-748x468.jpg",
+    "about": "The Nazgûl (Black Speech: Ringwraiths, sometimes written Ring-wraiths), also known as the Nine Riders or Black Riders (or simply the Nine), were Sauron's \"most terrible servants\" in Middle-earth. They were mortal Men who had been turned into wraiths by their Nine Rings of power."
+  }
+}
+]
