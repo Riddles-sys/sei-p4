@@ -38,7 +38,7 @@ const LocationSingle = () => {
 
   const getData = async () => {
     try {
-      const { data } = await axios.get(`/api/locations/${locationId}`)
+      const { data } = await axios.get(`/api/locations/${locationId}/`)
       // console.log('single location ----------------->',data)
       setLocation(data)
       setReviews(data.reviews)
