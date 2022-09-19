@@ -27,7 +27,7 @@ BASE_DIR = Path(__file__).resolve().parent.parent
 # See https://docs.djangoproject.com/en/4.1/howto/deployment/checklist/
 
 # SECURITY WARNING: keep the secret key used in production secret!
-SECRET_KEY = 'django-insecure-)5%s*g9a)cxut2_1jm%jfb0cmh$5oqt79+y=$y)7hpa3_6a%q('
+# SECRET_KEY = 'django-insecure-)5%s*g9a)cxut2_1jm%jfb0cmh$5oqt79+y=$y)7hpa3_6a%q('
 
 # SECURITY WARNING: don't run with debug turned on in production!
 DEBUG = True
@@ -159,4 +159,4 @@ STATICFILES_DIRS = (
 
 django_on_heroku.settings(locals()) # put this last
 
-# STATICFILES_STORAGE = "whitenoise.storage.CompressedStaticFilesStorage"
+STATICFILES_STORAGE = "whitenoise.storage.CompressedStaticFilesStorage"
