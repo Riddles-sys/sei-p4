@@ -36,20 +36,20 @@ const LocationIndex = () => {
           </p>
           <div className='destinations text-gray-500 text-lg'>
             <ul className='destinations-ul'>
-              <li className='location-list border shadow p-3 mb-5 bg-white rounded'><Link to={'/locations/1'}>The Shire</Link></li>
-              <li className='border shadow p-3 mb-5 bg-white rounded'><Link to={'/locations/2'}>Bree</Link></li>
-              <li className='border shadow p-3 mb-5 bg-white rounded'><Link to={'/locations/3'}>Mount Gundabad</Link></li>
-              <li className='border shadow p-3 mb-5 bg-white rounded'><Link to={'/locations/4'}>Rivendell</Link></li>
-              <li className='border shadow p-3 mb-5 bg-white rounded'><Link to={'/locations/5'}>Mirkwood</Link></li>
-              <li className='border shadow p-3 mb-5 bg-white rounded'><Link to={'/locations/6'}>Erebor</Link></li>
-              <li className='border shadow p-3 mb-5 bg-white rounded'><Link to={'/locations/7'}>Lake Town/Esgaroth</Link></li>
-              <li className='border shadow p-3 mb-5 bg-white rounded'><Link to={'/locations/8'}>Moria</Link></li>
-              <li className='border shadow p-3 mb-5 bg-white rounded'><Link to={'/locations/9'}>Isengard</Link></li>
-              <li className='border shadow p-3 mb-5 bg-white rounded'><Link to={'/locations/10'}>Dol Guldur</Link></li>
-              <li className='border shadow p-3 mb-5 bg-white rounded'><Link to={'/locations/11'}>Helms Deep</Link></li>
-              <li className='border shadow p-3 mb-5 bg-white rounded'><Link to={'/locations/12'}>Minas Tirith</Link></li>
-              <li className='border shadow p-3 mb-5 bg-white rounded'><Link to={'/locations/13'}>Mount Doom</Link></li>
-              <li className='border shadow p-3 mb-5 bg-white rounded'><Link to={'/locations/14'}>Minas Morgul</Link></li>
+              <li className='location-list border shadow p-3 mb-5 bg-white rounded'><Link to={'https://realm-middle-earth.herokuapp.com/locations/1'}>The Shire</Link></li>
+              <li className='border shadow p-3 mb-5 bg-white rounded'><Link to={'https://realm-middle-earth.herokuapp.com/locations/2'}>Bree</Link></li>
+              <li className='border shadow p-3 mb-5 bg-white rounded'><Link to={'https://realm-middle-earth.herokuapp.com/locations/3'}>Mount Gundabad</Link></li>
+              <li className='border shadow p-3 mb-5 bg-white rounded'><Link to={'https://realm-middle-earth.herokuapp.com/locations/4'}>Rivendell</Link></li>
+              <li className='border shadow p-3 mb-5 bg-white rounded'><Link to={'https://realm-middle-earth.herokuapp.com/locations/5'}>Mirkwood</Link></li>
+              <li className='border shadow p-3 mb-5 bg-white rounded'><Link to={'https://realm-middle-earth.herokuapp.com/locations/6'}>Erebor</Link></li>
+              <li className='border shadow p-3 mb-5 bg-white rounded'><Link to={'https://realm-middle-earth.herokuapp.com/locations/7'}>Lake Town/Esgaroth</Link></li>
+              <li className='border shadow p-3 mb-5 bg-white rounded'><Link to={'https://realm-middle-earth.herokuapp.com/locations/8'}>Moria</Link></li>
+              <li className='border shadow p-3 mb-5 bg-white rounded'><Link to={'https://realm-middle-earth.herokuapp.com/locations/9'}>Isengard</Link></li>
+              <li className='border shadow p-3 mb-5 bg-white rounded'><Link to={'https://realm-middle-earth.herokuapp.com/locations/10'}>Dol Guldur</Link></li>
+              <li className='border shadow p-3 mb-5 bg-white rounded'><Link to={'https://realm-middle-earth.herokuapp.com/locations/11'}>Helms Deep</Link></li>
+              <li className='border shadow p-3 mb-5 bg-white rounded'><Link to={'https://realm-middle-earth.herokuapp.com/locations/12'}>Minas Tirith</Link></li>
+              <li className='border shadow p-3 mb-5 bg-white rounded'><Link to={'https://realm-middle-earth.herokuapp.com/locations/13'}>Mount Doom</Link></li>
+              <li className='border shadow p-3 mb-5 bg-white rounded'><Link to={'https://realm-middle-earth.herokuapp.com/locations/14'}>Minas Morgul</Link></li>
             </ul>
           </div>
           <p>Click on the map below for your desired location</p>
