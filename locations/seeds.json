@@ -59,7 +59,7 @@
     "creatures": [
       2
     ],
-    "inhabitants": []
+    "inhabitants": [7]
   }
 },
 {
@@ -121,8 +121,8 @@
     "likes": [],
     "dislikes": [],
     "favourites": [],
-    "creatures": [],
-    "inhabitants": []
+    "creatures": [7],
+    "inhabitants": [7]
   }
 },
 {
@@ -140,8 +140,8 @@
     "likes": [],
     "dislikes": [],
     "favourites": [],
-    "creatures": [],
-    "inhabitants": []
+    "creatures": [6],
+    "inhabitants": [2]
   }
 },
 {
@@ -159,9 +159,9 @@
     "likes": [],
     "dislikes": [],
     "favourites": [],
-    "creatures": [],
+    "creatures": [6],
     "inhabitants": [
-      1
+      7
     ]
   }
 },
@@ -180,8 +180,8 @@
     "likes": [],
     "dislikes": [],
     "favourites": [],
-    "creatures": [],
-    "inhabitants": []
+    "creatures": [1, 2, 4],
+    "inhabitants": [6]
   }
 },
 {
@@ -222,8 +222,8 @@
     "likes": [],
     "dislikes": [],
     "favourites": [],
-    "creatures": [],
-    "inhabitants": []
+    "creatures": [4],
+    "inhabitants": [5]
   }
 },
 {
@@ -242,7 +242,7 @@
     "dislikes": [],
     "favourites": [],
     "creatures": [],
-    "inhabitants": []
+    "inhabitants": [5]
   }
 },
 {

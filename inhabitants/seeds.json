@@ -68,5 +68,33 @@
     "image3": "https://fictionhorizon.com/wp-content/uploads/2020/03/09e35968311a4304e3900c9d95544969-700-1.jpg",
     "about": "The Gondorians were the inhabitants of Gondor. The Dúnedain of Gondor, also known as the Dúnedain of the South, constituted the ruling class and nobility of Gondor being descendants of the Exiles of Númenor who established the South-Kingdom. The history of the Gondorians is extensively dominated by the actions of the Dúnedain of the South."
   }
+},
+{
+  "model": "inhabitants.inhabitant",
+  "pk": 6,
+  "fields": {
+    "name" : "Saruman",
+		"origin" : "Saruman the White was the first of the order of Wizards (or Istari) who came to Middle-earth.",
+		"height" : "Tall",
+		"languages" : "All",
+		"image1" : "https://wegotthiscovered.com/wp-content/uploads/2022/01/Saruman_Sauron.jpg",
+		"image2" : "https://cdnb.artstation.com/p/assets/images/images/005/347/533/large/kamil-trocinski-saruman-06.jpg",
+		"image3" : "https://literaryfalcon.files.wordpress.com/2010/11/074dfa2f005cef1ae1df9f9fefbcb562.jpg",
+		"about" : "For a time he was the chief of the Heren Istarion, as well as the head of the White Council. However, through his appreciation of Sauron's innate strength, his envy of Gandalf and his overbearing hubris, the White Wizard fell into mimicry of the Dark Lord as his capable yet faithless servant, plotting to share in his power or to two-facedly seize the One Ring first."
+  }
+},
+{
+  "model": "inhabitants.inhabitant",
+  "pk": 7,
+  "fields": {
+    "name" : "Dwarfs",
+		"origin" : "Descended from the seven Fathers of the Dwarves created by Aulë.",
+		"height" : "4' +",
+		"languages" : "Khuzdul, Westron, Sindarin, Iglishmêk (sign language)",
+		"image1" : "https://images.saymedia-content.com/.image/t_share/MTc0NDYwNDQwMTA4MjEzODk0/the-dwarves-of-jrr-tolkiens-middle-earth-the-dwarves-of-the-hobbit-and-the-lord-of-the-rings.jpg",
+		"image2" : "https://ideas.time.com/wp-content/uploads/sites/5/2012/12/hbt-061233r.jpg",
+		"image3" : "https://static0.gamerantimages.com/wordpress/wp-content/uploads/2022/01/where-dwarves-come-from-lotr.png",
+		"about" : "Unlike Elves and Men, the Dwarves are not counted among the Children of Ilúvatar. Their creator was Mahal, known as Aulë the Smith. Aulë created the Seven Fathers of the Dwarves, from whom all other Dwarves are descended, deep beneath an unknown mountain somewhere in Middle-earth."
+  }
 }
 ]

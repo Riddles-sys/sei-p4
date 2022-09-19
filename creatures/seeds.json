@@ -68,5 +68,33 @@
     "image3": "https://wallup.net/wp-content/uploads/2016/01/198801-The_Lord_of_the_Rings-Witchking_of_Angmar-Nazg%C3%BBl-748x468.jpg",
     "about": "The Nazgûl (Black Speech: Ringwraiths, sometimes written Ring-wraiths), also known as the Nine Riders or Black Riders (or simply the Nine), were Sauron's \"most terrible servants\" in Middle-earth. They were mortal Men who had been turned into wraiths by their Nine Rings of power."
   }
+},
+{
+  "model": "creatures.creature",
+  "pk": 6,
+  "fields": {
+    "name" : "Balrog",
+		"origin" : "Balrogs, or Valaraukar were Maiar that were seduced and corrupted by Melkor into his service.",
+		"height" : "Twice the size of Elves",
+		"languages" : "Melkian",
+		"image1" : "https://wallpaperaccess.com/full/1882264.jpg",
+		"image2" : "https://images-wixmp-ed30a86b8c4ca887773594c2.wixmp.com/f/76f030f0-ca64-4d4d-b60e-b545192075ea/dlc35k-9b37d06c-7380-4ddb-835b-8ad4ded25fa8.jpg",
+		"image3" : "https://images5.alphacoders.com//127/1270960.jpg",
+		"about" : "Originally, in unrecorded ancient times, the Balrogs were fiery Maiar that were persuaded by Melkor's might and splendor to join his cause. Their first dwelling was in Utumno, the fortress of Thangorodrim, but after their master's defeat during the War for Sake of the Elves, the Balrogs and other creatures in Melkor's service escaped to Angband and hibernated there."
+  }
+},
+{
+  "model": "creatures.creature",
+  "pk": 7,
+  "fields": {
+    "name" : "Smaug",
+		"origin" : "Details unknown although still considered young.",
+		"height" : "59' in length",
+		"languages" : "Westron",
+		"image1" : "https://static1.cbrimages.com/wordpress/wp-content/uploads/2021/12/smaug-hobbit.jpg",
+		"image2" : "https://mir-s3-cdn-cf.behance.net/projects/max_808/ff8a5f119249451.Y3JvcCw4MTgsNjQwLDQwNSww.jpg",
+		"image3" : "https://s29608.pcdn.co/wp-content/uploads/hm_bbpui/1451885/8u7grgtiz9m77e95gbwxn517vnv8s8fm.jpg",
+		"about" : "Smaug was the greatest fire-breathing dragon of the Third Age. In T.A. 2770 he attacked the Lonely Mountain and the town of Dale."
+  }
 }
 ]
