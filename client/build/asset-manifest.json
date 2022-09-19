@@ -1,0 +1,24 @@
+{
+  "files": {
+    "main.css": "/static/css/main.bdced8b3.css",
+    "main.js": "/static/js/main.04f37874.js",
+    "static/media/upwards.gif": "/static/media/upwards.0cbbbc0beb5b38157b86.gif",
+    "static/media/giphy.gif": "/static/media/giphy.4ad714148ace47471f5b.gif",
+    "static/media/loader.gif": "/static/media/loader.160e6c9b13a57603b3e0.gif",
+    "static/media/hobbit-home.gif": "/static/media/hobbit-home.5d2ba92cfa7be1d52fd2.gif",
+    "static/media/mainmap.jpg": "/static/media/mainmap.d6b90eb03bbd00e6a927.jpg",
+    "static/media/misty.jpg": "/static/media/misty.d1992ef4995e99194072.jpg",
+    "static/media/smaug.png": "/static/media/smaug.d1e19140a0a58a9ef5f4.png",
+    "static/media/notfound-removebg-preview.png": "/static/media/notfound-removebg-preview.648b215f9c974e08e222.png",
+    "static/media/github.png": "/static/media/github.287a43212fbe4197d53b.png",
+    "static/media/home.png": "/static/media/home.01f53dfc3d7b6c542dd2.png",
+    "static/media/linkedIn.png": "/static/media/linkedIn.8b89ce01929a419c5625.png",
+    "index.html": "/index.html",
+    "main.bdced8b3.css.map": "/static/css/main.bdced8b3.css.map",
+    "main.04f37874.js.map": "/static/js/main.04f37874.js.map"
+  },
+  "entrypoints": [
+    "static/css/main.bdced8b3.css",
+    "static/js/main.04f37874.js"
+  ]
+}

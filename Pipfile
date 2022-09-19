@@ -15,6 +15,7 @@ better-profanity = "*"
 simplejwt = "*"
 djangorestframework-simplejwt = "*"
 django-environ = "*"
+django-on-heroku = "*"
 
 [dev-packages]
 
