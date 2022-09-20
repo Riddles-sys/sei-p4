@@ -58,7 +58,7 @@ const LocationIndex = () => {
 
           <img className='img-map' src={mainmap} useMap="#image-map"/>
 
-          <map name="image-map">
+          <map className='map-hover' name="image-map">
             <area target="" className='map-hover' alt="The Shire" title="The Shire" href="/locations/1" coords="361,293,474,283,501,416,398,434" shape="poly"/>
             <area target="" className='map-hover' alt="Bree" title="Bree" href="/locations/2" coords="480,283,594,278,610,424,510,425" shape="poly"/>
             <area target="" className='map-hover' alt="Mount Gundabad" title="Mount Gundabad" href="/locations/3" coords="736,117,852,102,850,189,744,192,726,114" shape="poly"/>
