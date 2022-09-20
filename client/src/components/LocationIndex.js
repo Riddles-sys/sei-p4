@@ -59,20 +59,20 @@ const LocationIndex = () => {
           <img className='img-map' src={mainmap} useMap="#image-map"/>
 
           <map name="image-map">
-            <area target="" alt="The Shire" title="The Shire" href="/locations/1" coords="361,293,474,283,501,416,398,434" shape="poly"/>
-            <area target="" alt="Bree" title="Bree" href="/locations/2" coords="480,283,594,278,610,424,510,425" shape="poly"/>
-            <area target="" alt="Mount Gundabad" title="Mount Gundabad" href="/locations/3" coords="736,117,852,102,850,189,744,192,726,114" shape="poly"/>
-            <area target="" alt="Rivendell" title="Rivendell" href="/locations/4" coords="721,284,809,283,833,342,713,347" shape="poly"/>
-            <area target="" alt="Mirkwood" title="Mirkwood" href="/locations/5" coords="991,329,1120,322,1117,509,1000,473" shape="poly"/>
-            <area target="" alt="Erebor" title="Erebor" href="/locations/6" coords="1013,154,1146,163,1144,233,1008,218" shape="poly"/>
-            <area target="" alt="Lake Town/Esgaroth" title="Lake Town/Esgaroth" href="/locations/7" coords="1017,226,1143,236,1143,295,1003,293" shape="poly"/>
-            <area target="" alt="Moria" title="Moria" href="/locations/8" coords="693,423,794,447,775,505,666,488" shape="poly"/>
-            <area target="" alt="Isengard" title="Isengard" href="/locations/9" coords="631,598,731,604,720,710,617,698" shape="poly"/>
-            <area target="" alt="Dol Guldur" title="Dol Guldur" href="/locations/10" coords="905,462,973,447,1033,534,888,540,881,472" shape="poly"/>
-            <area target="" alt="Helms Deep" title="Helms Deep" href="/locations/11" coords="740,690,826,700,798,770,698,746,748,686" shape="poly"/>
-            <area target="" alt="Minas Tirith" title="Minas Tirith" href="/locations/12" coords="932,773,1045,795,1035,864,934,854" shape="poly"/>
-            <area target="" alt="Mount Doom" title="Mount Doom" href="/locations/13" coords="1095,746,1191,752,1208,815,1107,818,1087,784" shape="poly"/>
-            <area target="" alt="Minas Morgul" title="Minas Morgul" href="/locations/14" coords="1048,796,1103,821,1122,848,1090,876,1042,869" shape="poly"/>
+            <area target="" className='map-hover' alt="The Shire" title="The Shire" href="/locations/1" coords="361,293,474,283,501,416,398,434" shape="poly"/>
+            <area target="" className='map-hover' alt="Bree" title="Bree" href="/locations/2" coords="480,283,594,278,610,424,510,425" shape="poly"/>
+            <area target="" className='map-hover' alt="Mount Gundabad" title="Mount Gundabad" href="/locations/3" coords="736,117,852,102,850,189,744,192,726,114" shape="poly"/>
+            <area target="" className='map-hover' alt="Rivendell" title="Rivendell" href="/locations/4" coords="721,284,809,283,833,342,713,347" shape="poly"/>
+            <area target="" className='map-hover' alt="Mirkwood" title="Mirkwood" href="/locations/5" coords="991,329,1120,322,1117,509,1000,473" shape="poly"/>
+            <area target="" className='map-hover' alt="Erebor" title="Erebor" href="/locations/6" coords="1013,154,1146,163,1144,233,1008,218" shape="poly"/>
+            <area target="" className='map-hover' alt="Lake Town/Esgaroth" title="Lake Town/Esgaroth" href="/locations/7" coords="1017,226,1143,236,1143,295,1003,293" shape="poly"/>
+            <area target="" className='map-hover' alt="Moria" title="Moria" href="/locations/8" coords="693,423,794,447,775,505,666,488" shape="poly"/>
+            <area target="" className='map-hover' alt="Isengard" title="Isengard" href="/locations/9" coords="631,598,731,604,720,710,617,698" shape="poly"/>
+            <area target="" className='map-hover' alt="Dol Guldur" title="Dol Guldur" href="/locations/10" coords="905,462,973,447,1033,534,888,540,881,472" shape="poly"/>
+            <area target="" className='map-hover' alt="Helms Deep" title="Helms Deep" href="/locations/11" coords="740,690,826,700,798,770,698,746,748,686" shape="poly"/>
+            <area target="" className='map-hover' alt="Minas Tirith" title="Minas Tirith" href="/locations/12" coords="932,773,1045,795,1035,864,934,854" shape="poly"/>
+            <area target="" className='map-hover' alt="Mount Doom" title="Mount Doom" href="/locations/13" coords="1095,746,1191,752,1208,815,1107,818,1087,784" shape="poly"/>
+            <area target="" className='map-hover' alt="Minas Morgul" title="Minas Morgul" href="/locations/14" coords="1048,796,1103,821,1122,848,1090,876,1042,869" shape="poly"/>
           </map>
         </div>
       </Container >

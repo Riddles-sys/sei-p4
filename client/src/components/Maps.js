@@ -1,4 +1,4 @@
-
+import map from '../images/1-Map.jpg'
 
 const Maps = () => {
  
@@ -9,6 +9,7 @@ const Maps = () => {
         Welcome to Maps</h1>              
       </div>
       <iframe src="https://lotrproject.com/map/#zoom=3&lat=-1315.5&lon=1500&layers=BTTTTT" title="LOTR Project" width="100%" height="500"></iframe>
+      <img  src={map} alt='muti map' />
     </div>
     
   )
