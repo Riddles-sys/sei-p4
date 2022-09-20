@@ -9,3 +9,12 @@
     // background-color: black;
   }
 }
+
+.img-map{
+  width: 100%!important;
+  .map-hover {
+    &:hover {
+      background-color: rgb(25, 119, 25);
+    }
+  }
+}
