@@ -12,9 +12,11 @@
 
 .img-map{
   width: 100%!important;
-  .map-hover {
-    &:hover {
-      background-color: rgb(25, 119, 25);
-    }
+ 
+}
+
+.map-hover {
+  &:hover {
+    background-color: rgb(25, 119, 25);
   }
 }
