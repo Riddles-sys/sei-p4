@@ -10,6 +10,7 @@ import mainmap from '../images/mainmap.jpg'
 const LocationIndex = () => {
   const [locations, setLocations] = useState([])
   const [error, setError] = useState('')
+  const [open, setOpen] = useState('')
 
   useEffect(() => {
     const getData = async () => {
@@ -34,22 +35,25 @@ const LocationIndex = () => {
           <p className="text-3xl text-gray-700 font-bold mb-5">
           Destinations
           </p>
-          <div className='destinations text-gray-500 text-lg'>
-            <ul className='destinations-ul'>
-              <li className='location-list border shadow p-3 mb-5 bg-white rounded'><Link to={'/locations/1'}>The Shire</Link></li>
-              <li className='border shadow p-3 mb-5 bg-white rounded'><Link to={'/locations/2'}>Bree</Link></li>
-              <li className='border shadow p-3 mb-5 bg-white rounded'><Link to={'/locations/3'}>Mount Gundabad</Link></li>
-              <li className='border shadow p-3 mb-5 bg-white rounded'><Link to={'/locations/4'}>Rivendell</Link></li>
-              <li className='border shadow p-3 mb-5 bg-white rounded'><Link to={'/locations/5'}>Mirkwood</Link></li>
-              <li className='border shadow p-3 mb-5 bg-white rounded'><Link to={'/locations/6'}>Erebor</Link></li>
-              <li className='border shadow p-3 mb-5 bg-white rounded'><Link to={'/locations/7'}>Lake Town/Esgaroth</Link></li>
-              <li className='border shadow p-3 mb-5 bg-white rounded'><Link to={'/locations/8'}>Moria</Link></li>
-              <li className='border shadow p-3 mb-5 bg-white rounded'><Link to={'/locations/9'}>Isengard</Link></li>
-              <li className='border shadow p-3 mb-5 bg-white rounded'><Link to={'/locations/10'}>Dol Guldur</Link></li>
-              <li className='border shadow p-3 mb-5 bg-white rounded'><Link to={'/locations/11'}>Helms Deep</Link></li>
-              <li className='border shadow p-3 mb-5 bg-white rounded'><Link to={'/locations/12'}>Minas Tirith</Link></li>
-              <li className='border shadow p-3 mb-5 bg-white rounded'><Link to={'/locations/13'}>Mount Doom</Link></li>
-              <li className='border shadow p-3 mb-5 bg-white rounded'><Link to={'/locations/14'}>Minas Morgul</Link></li>
+          <div className='dropdown text-gray-500 text-lg'>
+            <button onClick={() => setOpen( open === '' ? 'show' : '' )} className="btn btn-secondary dropdown-toggle" type="button" id="dropdownMenuButton1" data-bs-toggle="dropdown" aria-expanded="false">
+                Destinations
+            </button>
+            <ul className={`dropdown-menu ${open}`} aria-labelledby="dropdownMenuButton1">
+              <li ><a className="dropdown-item" href={'/locations/1'}>The Shire</a ></li>
+              <li ><a className="dropdown-item" href={'/locations/2'}>Bree</a ></li>
+              <li ><a className="dropdown-item" href={'/locations/3'}>Mount Gundabad</a ></li>
+              <li ><a className="dropdown-item" href={'/locations/4'}>Rivendell</a ></li>
+              <li ><a className="dropdown-item" href={'/locations/5'}>Mirkwood</a ></li>
+              <li ><a className="dropdown-item" href={'/locations/6'}>Erebor</a ></li>
+              <li ><a className="dropdown-item" href={'/locations/7'}>Lake Town/Esgaroth</a ></li>
+              <li ><a className="dropdown-item" href={'/locations/8'}>Moria</a ></li>
+              <li ><a className="dropdown-item" href={'/locations/9'}>Isengard</a ></li>
+              <li ><a className="dropdown-item" href={'/locations/10'}>Dol Guldur</a ></li>
+              <li ><a className="dropdown-item" href={'/locations/11'}>Helms Deep</a ></li>
+              <li ><a className="dropdown-item" href={'/locations/12'}>Minas Tirith</a ></li>
+              <li ><a className="dropdown-item" href={'/locations/13'}>Mount Doom</a ></li>
+              <li ><a className="dropdown-item" href={'/locations/14'}>Minas Morgul</a ></li>
             </ul>
           </div>
           <p>Click on the map below for your desired location</p>

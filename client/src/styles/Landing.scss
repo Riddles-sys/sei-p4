@@ -26,7 +26,7 @@
       justify-content: center;
       color: #3F706A;
       
-      font-size: 50px;
+      font-size: 3rem;
       // background-color: black;
     }
     .landing-img {
@@ -34,7 +34,7 @@
     }
   }
   
-  @media (max-width: 440px) {
+
 
   .landing-page {
     height: 100vh;
@@ -70,4 +70,12 @@
       width: 100%;
     }
   }
+
+  @media (max-width: 440px) {
+    .enter-button {
+      height: 9rem;
+    }
+    p {
+      color: rgb(15, 112, 28);
+    }
   }

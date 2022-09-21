@@ -3,16 +3,16 @@ import mainImage from '../images/hobbit-home.gif'
 
 const Landing = () => {
   return (
-    <section className='landing-page'>
+    <section className='landing-page mx-auto'>
       <div className="container mx-auto bg-transparent rounded-xl shadow border p-10">
         <div>
           <div className='entry'>
             <h1 className="title-main text-3xl text-gray-700 font-bold mb-5">
-              Welcome to Middle Earth Tours
+              Welcome to Middle Earth
             </h1>
           </div>
           <div className='enter'>
-            <p> Where adventure awaits.</p>
+            <p className='p-enter'> Where adventure awaits.</p>
           </div>
           
         </div>

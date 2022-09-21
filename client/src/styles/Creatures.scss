@@ -10,13 +10,11 @@
   }
   .creatures-card {
     text-align: center;
-
+    &:hover .overlay {
+      max-height: 30%;
+    }
   }
-  &:hover .overlay {
-    max-height: 30%;
-    
 
-  }
   .overlay {
     position: absolute;
     z-index: 1;
