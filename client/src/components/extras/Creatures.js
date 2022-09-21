@@ -48,7 +48,7 @@ const Creatures = () => {
                   <Link className="mb-4" to={`/creatures/${creature.id}`}>
                     <Card className='creatures-card hover:grid'>
                     
-                      <Card.Img variant='top' className='w-100' src={creature.image1}></Card.Img>
+                      <Card.Img variant='top' className='img-top w-100' src={creature.image1}></Card.Img>
                       <Card.Title className='overlay'>{creature.name}</Card.Title>
                     </Card>
                   </Link>
