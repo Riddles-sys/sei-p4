@@ -1,2 +1,2 @@
 # requirements.txt
-Django==3.10.6
+Django==4.1
