@@ -6,7 +6,7 @@ This website is a travel review website for the realm of Middle Earth. It reveal
 
 ## Deployment link
 
-https://realm-middle-earth.herokuapp.com/
+https://middle-earth.fly.dev/
 
 ![](readme/preview.gif)
 ##### Preview
