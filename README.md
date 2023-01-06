@@ -6,7 +6,7 @@ This website is a travel review website for the realm of Middle Earth. It reveal
 
 ## Deployment link
 
-https://middle-earth.fly.dev/
+https://middle-earth.up.railway.app/
 
 ![](readme/preview.gif)
 ##### Preview
